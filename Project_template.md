@@ -174,7 +174,7 @@ Locations - название комнаты, sensorId - идентификато
 
 ❌ — вы пропустили задание.
 
-# ✅ ❌ Задание 5. Создание и документирование API
+# ✅  Задание 5. Создание и документирование API
 
 ### 1. Тип API
 
@@ -186,5 +186,5 @@ Locations - название комнаты, sensorId - идентификато
 ### 2. Документация API
 
 [asyncApi](https://disk.yandex.ru/d/Nk5md2kDoZ_XYg)
-[rest api](https://disk.yandex.ru/d/WDwyxN9-7MF5pA)
+[rest api](https://disk.yandex.ru/d/S7H6dxCxcBiEYQ)
 
